@@ -1,6 +1,7 @@
 # Cryptocurrencies_and_Covid
 Cryptocurrencies and Covid-19 analysis with Python and Spark 
 
+Data requested on notebook from different sources. Feel free to run the notebook with updated values.
 
 
 Considered one of the most important topics world-wide on 2020 and at this point the beginning of 2021 is
